@@ -1,5 +1,6 @@
 source 'http://rubygems.org'
 
+gem 'mutex_m', '~> 0.3'
 gem 'rake'
 
 group :development do
